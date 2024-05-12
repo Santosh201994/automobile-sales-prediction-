@@ -9,7 +9,7 @@ Used the functionality of Seaborn Library and pandas to create a visualizations 
 
 
 
-### CONCLUTION
+### CONCLUSION
 
 During analysis it is noticeable that sales were significantly low during recession period.
 • The GDP is a factor that affected sales during the recession periods therefore working on 

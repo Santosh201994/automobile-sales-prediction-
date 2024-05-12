@@ -1,4 +1,4 @@
-### automobile-sales-prediction in recession vs non recession time
+### Analysing the Impact of Recession on Automobile Sales
 
 This projects involves data analysis of an automobile sales company to get insight from the data
 
